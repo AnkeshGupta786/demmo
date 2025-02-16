@@ -1,3 +1,3 @@
 # demmo
-this is demmo. <br>
-author- ankesh
+This is demmo. <br>
+Author- ankesh gupta
